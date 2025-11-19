@@ -23,6 +23,8 @@ Security: Kali Linux, Metasploit, Burp Suite, Wireshark, Nmap, OSINT (theHarvest
 Programming / Scripting: Python (for tooling).
 
 Social Media: Linkedin, X,and WHATSAPP.
+Anyone can contact me on LinkedIn, by just using the Link Below.
+https://www.linkedin.com/in/dark-dante0xa-518476294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 Collaboration: (Vestpi)
 
