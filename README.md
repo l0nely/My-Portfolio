@@ -12,7 +12,7 @@ Cybersecurity	Social‑Media Management
 to my Best of Knowlegde.
 for more contact and verifications, you can contect vestpi at (contact@vestpi.com) or (business@vestpi.com)   Website|Linkedin|Telegram|X
 • I also Teach People cyber security to my own best of understanding, especially in the aspect of bug bounty.
-• Cloud security (AWS, GCP, Azure) – IAM, CSPM	• Brand voice & copywriting
+• API security & • Brand voice & copywriting
 • Automation & scripting (Python)
 Project	Tech / Tools	Highlights
 SecureSocial – Open‑source toolkit for scanning social‑media accounts for credential leaks, phishing URLs, and brand impersonation.	Python, Selenium, VirusTotal API, waybackurls	• Detects compromised credentials in < 30 s<br>• Generates automated remediation reports
