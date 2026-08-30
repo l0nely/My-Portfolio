@@ -34,7 +34,6 @@ APISEC . (2025)
 GitHub: github.com/your‑username
 LinkedIn: linkedin.com/in/your‑profile
 Twitter/X: @Debug_sec
-Email: nightboy1997@yahoo.com
 Feel free to explore my repos, open issues, or drop me a line if you’d like to collaborate on security automation, community building, or anything in between!
 — [Dante]
 
